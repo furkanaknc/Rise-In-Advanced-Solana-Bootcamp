@@ -1,0 +1,1 @@
+C:\Users\furka\OneDrive\Masaüstü\klasörler\yazılım\blockChain\advancedSolanaBootcamp\task02\target\debug\task02.exe: C:\Users\furka\OneDrive\Masaüstü\klasörler\yazılım\blockChain\advancedSolanaBootcamp\task02\src\main.rs
